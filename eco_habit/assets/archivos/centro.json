@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "nombre": "Recicladora esquivel",
+    "imagenUrl": "assets/images/recicladora_esquivel.png",
+    "direccion": "Heroes de La Reforma 113 C, Estrella de Oro, 98087 Zacatecas, Zac.",
+    "horarios": [
+      "9 a.m.–6 p.m.",
+      "9 a.m.–6 p.m.",
+      "9 a.m.–6 p.m.",
+      "9 a.m.–6 p.m.",
+      "9 a.m.–6 p.m.",
+      "9 a.m.–2 p.m.",
+      "Cerrado"
+    ],
+    "telefono": "492 172 6002",
+    "calificacion": 5.0,
+    "ciudad": "Zacatecas, Zacatecas",
+    "latitud": 22.756718,
+    "longitud": -102.597067
+  },
+  {
+    "id": "2",
+    "nombre": "Reciclajes Revolución",
+    "imagenUrl": "assets/images/reciclaje_revolucion.jpg",
+    "direccion": "Calz. Revolución Mexicana 10, Ejidal, 98613 Guadalupe, Zac.",
+    "horarios": [
+      "8:30 a.m.–5:30 p.m.",
+      "8:30 a.m.–5:30 p.m.",
+      "8:30 a.m.–5:30 p.m.",
+      "8:30 a.m.–5:30 p.m.",
+      "8:30 a.m.–5:30 p.m.",
+      "8:30 a.m.–2 p.m.",
+      "Cerrado"
+    ],
+    "telefono": "492 899 5892",
+    "calificacion": 5.0,
+    "ciudad": "Guadalupe, Zacatecas",
+    "latitud": 22.751792812389258,
+    "longitud": -102.50051516221002
+  },
+  {
+    "id": "3",
+    "nombre": "Reciclajes Miravalle",
+    "imagenUrl": "assets/images/reciclaje_miravele.jpg",
+    "direccion": "Carretera panamericana salida a Ags km 1 Entre bonito pueblo y, Villas de Guadalupe, 98613",
+    "horarios": [
+      "8:30 a.m.–6 p.m.",
+      "8:30 a.m.–6 p.m.",
+      "8:30 a.m.–6 p.m.",
+      "8:30 a.m.–6 p.m.",
+      "8:30 a.m.–6 p.m.",
+      "8:30 a.m.–2 p.m.",
+      "Cerrado"
+    ],
+    "telefono": "492 998 0906",
+    "calificacion": 4.3,
+    "ciudad": "Guadalupe, Zacatecas",
+    "latitud": 22.751082,
+    "longitud": -102.486468
+  }
+]
